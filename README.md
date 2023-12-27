@@ -4,8 +4,8 @@ El Último Dios: Desafío de los Tres Guerreros es un juego de batalla que enfre
 
 Este emocionante juego incorpora un sistema de guardado automático que mantiene el progreso del jugador al finalizar cada partida, permitiendo acceder a este en cualquier momento. Además, ofrece borrar el progreso existente. La utilización de archivos .txt para almacenar los datos del juego, garantiza una experiencia interactiva y dinámica.
 
-> _[!NOTE]_
+> [!NOTE]
 > Los archivos .txt se guardan en el directorio Archivo, lo cual, no es necesario especificar la ruta.
 
-> _[!WARNING]_
+> [!WARNING]
 > Si se decide eliminar los archivos .txt (también se elimina el directorio), no se creará de vuelta en el momento. Solo cuando está en la ventana Menú.
